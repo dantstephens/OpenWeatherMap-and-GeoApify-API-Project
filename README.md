@@ -1,4 +1,4 @@
-# python-api-challenge
+# OpenWeatherMap-and-GeoApify-API-Project
 
 ## About this project
 This project consists of two different notebooks demonstrating the use of APIs to import data for analysis
